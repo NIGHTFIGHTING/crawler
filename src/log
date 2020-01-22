@@ -1,0 +1,941 @@
+2020/01/22 18:13:37 Fetching http://www.zhenai.com/zhenghun
+2020/01/22 18:13:46 Got item 阿坝
+2020/01/22 18:13:46 Got item 阿克苏
+2020/01/22 18:13:46 Got item 阿拉善盟
+2020/01/22 18:13:46 Got item 阿勒泰
+2020/01/22 18:13:46 Got item 阿里
+2020/01/22 18:13:46 Got item 安徽
+2020/01/22 18:13:46 Got item 安康
+2020/01/22 18:13:46 Got item 安庆
+2020/01/22 18:13:46 Got item 鞍山
+2020/01/22 18:13:46 Got item 安顺
+2020/01/22 18:13:46 Got item 安阳
+2020/01/22 18:13:46 Got item 中国澳门
+2020/01/22 18:13:46 Got item 白城
+2020/01/22 18:13:46 Got item 百色
+2020/01/22 18:13:46 Got item 白山
+2020/01/22 18:13:46 Got item 白银
+2020/01/22 18:13:46 Got item 巴南
+2020/01/22 18:13:46 Got item 蚌埠
+2020/01/22 18:13:46 Got item 宝坻
+2020/01/22 18:13:46 Got item 保定
+2020/01/22 18:13:46 Got item 宝鸡
+2020/01/22 18:13:46 Got item 宝山
+2020/01/22 18:13:46 Got item 保山
+2020/01/22 18:13:46 Got item 包头
+2020/01/22 18:13:46 Got item 巴彦淖尔
+2020/01/22 18:13:46 Got item 巴音郭楞
+2020/01/22 18:13:46 Got item 巴中
+2020/01/22 18:13:46 Got item 北碚
+2020/01/22 18:13:46 Got item 北辰
+2020/01/22 18:13:46 Got item 北海
+2020/01/22 18:13:46 Got item 北京
+2020/01/22 18:13:46 Got item 本溪
+2020/01/22 18:13:46 Got item 毕节
+2020/01/22 18:13:46 Got item 滨海新
+2020/01/22 18:13:46 Got item 滨州
+2020/01/22 18:13:46 Got item 璧山
+2020/01/22 18:13:46 Got item 博尔塔拉
+2020/01/22 18:13:46 Got item 亳州
+2020/01/22 18:13:46 Got item 沧州
+2020/01/22 18:13:46 Got item 长春
+2020/01/22 18:13:46 Got item 常德
+2020/01/22 18:13:46 Got item 昌都
+2020/01/22 18:13:46 Got item 昌吉
+2020/01/22 18:13:46 Got item 长宁
+2020/01/22 18:13:46 Got item 昌平
+2020/01/22 18:13:46 Got item 长沙
+2020/01/22 18:13:46 Got item 长寿
+2020/01/22 18:13:46 Got item 长治
+2020/01/22 18:13:46 Got item 常州
+2020/01/22 18:13:46 Got item 朝阳
+2020/01/22 18:13:46 Got item 潮州
+2020/01/22 18:13:46 Got item 承德
+2020/01/22 18:13:46 Got item 成都
+2020/01/22 18:13:46 Got item 城口
+2020/01/22 18:13:46 Got item 郴州
+2020/01/22 18:13:46 Got item 赤峰
+2020/01/22 18:13:46 Got item 池州
+2020/01/22 18:13:46 Got item 崇明
+2020/01/22 18:13:46 Got item 重庆
+2020/01/22 18:13:46 Got item 崇左
+2020/01/22 18:13:46 Got item 楚雄
+2020/01/22 18:13:46 Got item 滁州
+2020/01/22 18:13:46 Got item 大渡口
+2020/01/22 18:13:46 Got item 大理
+2020/01/22 18:13:46 Got item 大连
+2020/01/22 18:13:46 Got item 丹东
+2020/01/22 18:13:46 Got item 大庆
+2020/01/22 18:13:46 Got item 大同
+2020/01/22 18:13:46 Got item 大兴
+2020/01/22 18:13:46 Got item 大兴安岭
+2020/01/22 18:13:46 Got item 达州
+2020/01/22 18:13:46 Got item 大足
+2020/01/22 18:13:46 Got item 德宏
+2020/01/22 18:13:46 Got item 德阳
+2020/01/22 18:13:46 Got item 德州
+2020/01/22 18:13:46 Got item 垫江
+2020/01/22 18:13:46 Got item 定西
+2020/01/22 18:13:46 Got item 迪庆
+2020/01/22 18:13:46 Got item 东城
+2020/01/22 18:13:46 Got item 东莞
+2020/01/22 18:13:46 Got item 东丽
+2020/01/22 18:13:46 Got item 东营
+2020/01/22 18:13:46 Got item 鄂尔多斯
+2020/01/22 18:13:46 Got item 恩施
+2020/01/22 18:13:46 Got item 鄂州
+2020/01/22 18:13:46 Got item 防城港
+2020/01/22 18:13:46 Got item 房山
+2020/01/22 18:13:46 Got item 丰都
+2020/01/22 18:13:46 Got item 奉节
+2020/01/22 18:13:46 Got item 丰台
+2020/01/22 18:13:46 Got item 奉贤
+2020/01/22 18:13:46 Got item 佛山
+2020/01/22 18:13:46 Got item 福建
+2020/01/22 18:13:46 Got item 涪陵
+2020/01/22 18:13:46 Got item 抚顺
+2020/01/22 18:13:46 Got item 阜新
+2020/01/22 18:13:46 Got item 阜阳
+2020/01/22 18:13:46 Got item 福州
+2020/01/22 18:13:46 Got item 抚州
+2020/01/22 18:13:46 Got item 甘南
+2020/01/22 18:13:46 Got item 甘肃
+2020/01/22 18:13:46 Got item 赣州
+2020/01/22 18:13:46 Got item 甘孜
+2020/01/22 18:13:46 Got item 高雄
+2020/01/22 18:13:46 Got item 广安
+2020/01/22 18:13:46 Got item 广东
+2020/01/22 18:13:46 Got item 广西
+2020/01/22 18:13:46 Got item 广元
+2020/01/22 18:13:46 Got item 广州
+2020/01/22 18:13:46 Got item 贵港
+2020/01/22 18:13:46 Got item 桂林
+2020/01/22 18:13:46 Got item 贵阳
+2020/01/22 18:13:46 Got item 贵州
+2020/01/22 18:13:46 Got item 果洛
+2020/01/22 18:13:46 Got item 固原
+2020/01/22 18:13:46 Got item 哈尔滨
+2020/01/22 18:13:46 Got item 海北
+2020/01/22 18:13:46 Got item 海淀
+2020/01/22 18:13:46 Got item 海东地
+2020/01/22 18:13:46 Got item 海口
+2020/01/22 18:13:46 Got item 海南
+2020/01/22 18:13:46 Got item 海南藏族自治州
+2020/01/22 18:13:46 Got item 海西
+2020/01/22 18:13:46 Got item 哈密
+2020/01/22 18:13:46 Got item 邯郸
+2020/01/22 18:13:46 Got item 杭州
+2020/01/22 18:13:46 Got item 汉中
+2020/01/22 18:13:46 Got item 河北
+2020/01/22 18:13:46 Got item 鹤壁
+2020/01/22 18:13:46 Got item 河池
+2020/01/22 18:13:46 Got item 合川
+2020/01/22 18:13:46 Got item 河东
+2020/01/22 18:13:46 Got item 合肥
+2020/01/22 18:13:46 Got item 鹤岗
+2020/01/22 18:13:46 Got item 黑河
+2020/01/22 18:13:46 Got item 黑龙江
+2020/01/22 18:13:46 Got item 河南
+2020/01/22 18:13:46 Got item 衡水
+2020/01/22 18:13:46 Got item 衡阳
+2020/01/22 18:13:46 Got item 和平
+2020/01/22 18:13:46 Got item 和田
+2020/01/22 18:13:46 Got item 河西
+2020/01/22 18:13:46 Got item 河源
+2020/01/22 18:13:46 Got item 菏泽
+2020/01/22 18:13:46 Got item 贺州
+2020/01/22 18:13:46 Got item 红河
+2020/01/22 18:13:46 Got item 虹口
+2020/01/22 18:13:46 Got item 红桥
+2020/01/22 18:13:46 Got item 淮安
+2020/01/22 18:13:46 Got item 淮北
+2020/01/22 18:13:46 Got item 怀化
+2020/01/22 18:13:46 Got item 淮南
+2020/01/22 18:13:46 Got item 怀柔
+2020/01/22 18:13:46 Got item 花莲
+2020/01/22 18:13:46 Got item 黄冈
+2020/01/22 18:13:46 Got item 黄南
+2020/01/22 18:13:46 Got item 黄浦
+2020/01/22 18:13:46 Got item 黄山
+2020/01/22 18:13:46 Got item 黄石
+2020/01/22 18:13:46 Got item 湖北
+2020/01/22 18:13:46 Got item 呼和浩特
+2020/01/22 18:13:46 Got item 惠州
+2020/01/22 18:13:46 Got item 葫芦岛
+2020/01/22 18:13:46 Got item 呼伦贝尔
+2020/01/22 18:13:46 Got item 湖南
+2020/01/22 18:13:46 Got item 湖州
+2020/01/22 18:13:46 Got item 嘉定
+2020/01/22 18:13:46 Got item 佳木斯
+2020/01/22 18:13:46 Got item 吉安
+2020/01/22 18:13:46 Got item 江北
+2020/01/22 18:13:46 Got item 江津
+2020/01/22 18:13:46 Got item 江门
+2020/01/22 18:13:46 Got item 江苏
+2020/01/22 18:13:46 Got item 江西
+2020/01/22 18:13:46 Got item 焦作
+2020/01/22 18:13:46 Got item 嘉兴
+2020/01/22 18:13:46 Got item 嘉义
+2020/01/22 18:13:46 Got item 嘉峪关
+2020/01/22 18:13:46 Got item 揭阳
+2020/01/22 18:13:46 Got item 吉林
+2020/01/22 18:13:46 Got item 基隆
+2020/01/22 18:13:46 Got item 济南
+2020/01/22 18:13:46 Got item 金昌
+2020/01/22 18:13:46 Got item 晋城
+2020/01/22 18:13:46 Got item 静安
+2020/01/22 18:13:46 Got item 景德镇
+2020/01/22 18:13:46 Got item 静海
+2020/01/22 18:13:46 Got item 荆门
+2020/01/22 18:13:46 Got item 荆州
+2020/01/22 18:13:46 Got item 金华
+2020/01/22 18:13:46 Got item 济宁
+2020/01/22 18:13:46 Got item 津南
+2020/01/22 18:13:46 Got item 金山
+2020/01/22 18:13:46 Got item 晋中
+2020/01/22 18:13:46 Got item 锦州
+2020/01/22 18:13:46 Got item 九江
+2020/01/22 18:13:46 Got item 九龙
+2020/01/22 18:13:46 Got item 九龙坡
+2020/01/22 18:13:46 Got item 酒泉
+2020/01/22 18:13:46 Got item 鸡西
+2020/01/22 18:13:46 Got item 蓟县
+2020/01/22 18:13:46 Got item 开封
+2020/01/22 18:13:46 Got item 开县
+2020/01/22 18:13:46 Got item 喀什
+2020/01/22 18:13:46 Got item 克拉玛依
+2020/01/22 18:13:46 Got item 克孜勒苏柯尔克孜
+2020/01/22 18:13:46 Got item 昆明
+2020/01/22 18:13:46 Got item 来宾
+2020/01/22 18:13:46 Got item 莱芜
+2020/01/22 18:13:46 Got item 廊坊
+2020/01/22 18:13:46 Got item 兰州
+2020/01/22 18:13:46 Got item 拉萨
+2020/01/22 18:13:46 Got item 乐山
+2020/01/22 18:13:46 Got item 梁平
+2020/01/22 18:13:46 Got item 凉山
+2020/01/22 18:13:46 Got item 连云港
+2020/01/22 18:13:46 Got item 聊城
+2020/01/22 18:13:46 Got item 辽宁
+2020/01/22 18:13:46 Got item 辽阳
+2020/01/22 18:13:46 Got item 辽源
+2020/01/22 18:13:46 Got item 丽江
+2020/01/22 18:13:46 Got item 临沧
+2020/01/22 18:13:46 Got item 临汾
+2020/01/22 18:13:46 Got item 临夏
+2020/01/22 18:13:46 Got item 临沂
+2020/01/22 18:13:46 Got item 林芝
+2020/01/22 18:13:46 Got item 丽水
+2020/01/22 18:13:46 Got item 六安
+2020/01/22 18:13:46 Got item 六盘水
+2020/01/22 18:13:46 Got item 柳州
+2020/01/22 18:13:46 Got item 陇南
+2020/01/22 18:13:46 Got item 龙岩
+2020/01/22 18:13:46 Got item 娄底
+2020/01/22 18:13:46 Got item 漯河
+2020/01/22 18:13:46 Got item 洛阳
+2020/01/22 18:13:46 Got item 泸州
+2020/01/22 18:13:46 Got item 吕梁
+2020/01/22 18:13:46 Got item 马鞍山
+2020/01/22 18:13:46 Got item 茂名
+2020/01/22 18:13:46 Got item 眉山
+2020/01/22 18:13:46 Got item 梅州
+2020/01/22 18:13:46 Got item 门头沟
+2020/01/22 18:13:46 Got item 绵阳
+2020/01/22 18:13:46 Got item 苗栗
+2020/01/22 18:13:46 Got item 闵行
+2020/01/22 18:13:46 Got item 密云
+2020/01/22 18:13:46 Got item 牡丹江
+2020/01/22 18:13:46 Got item 南岸
+2020/01/22 18:13:46 Got item 南昌
+2020/01/22 18:13:46 Got item 南充
+2020/01/22 18:13:46 Got item 南川
+2020/01/22 18:13:46 Got item 南京
+2020/01/22 18:13:46 Got item 南开
+2020/01/22 18:13:46 Got item 南宁
+2020/01/22 18:13:46 Got item 南平
+2020/01/22 18:13:46 Got item 南通
+2020/01/22 18:13:46 Got item 南投
+2020/01/22 18:13:46 Got item 南阳
+2020/01/22 18:13:46 Got item 那曲
+2020/01/22 18:13:46 Got item 内江
+2020/01/22 18:13:46 Got item 内蒙古
+2020/01/22 18:13:46 Got item 宁波
+2020/01/22 18:13:46 Got item 宁德
+2020/01/22 18:13:46 Got item 宁河
+2020/01/22 18:13:46 Got item 宁夏
+2020/01/22 18:13:46 Got item 怒江
+2020/01/22 18:13:46 Got item 盘锦
+2020/01/22 18:13:46 Got item 攀枝花
+2020/01/22 18:13:46 Got item 澎湖
+2020/01/22 18:13:46 Got item 彭水
+2020/01/22 18:13:46 Got item 平顶山
+2020/01/22 18:13:46 Got item 屏东
+2020/01/22 18:13:46 Got item 平谷
+2020/01/22 18:13:46 Got item 平凉
+2020/01/22 18:13:46 Got item 萍乡
+2020/01/22 18:13:46 Got item 浦东新
+2020/01/22 18:13:46 Got item 普洱
+2020/01/22 18:13:46 Got item 莆田
+2020/01/22 18:13:46 Got item 普陀
+2020/01/22 18:13:46 Got item 濮阳
+2020/01/22 18:13:46 Got item 黔东
+2020/01/22 18:13:46 Got item 黔江
+2020/01/22 18:13:46 Got item 黔南
+2020/01/22 18:13:46 Got item 黔西
+2020/01/22 18:13:46 Got item 綦江
+2020/01/22 18:13:46 Got item 青岛
+2020/01/22 18:13:46 Got item 青海
+2020/01/22 18:13:46 Got item 青浦
+2020/01/22 18:13:46 Got item 庆阳
+2020/01/22 18:13:46 Got item 清远
+2020/01/22 18:13:46 Got item 秦皇岛
+2020/01/22 18:13:46 Got item 钦州
+2020/01/22 18:13:46 Got item 齐齐哈尔
+2020/01/22 18:13:46 Got item 七台河
+2020/01/22 18:13:46 Got item 泉州
+2020/01/22 18:13:46 Got item 曲靖
+2020/01/22 18:13:46 Got item 衢州
+2020/01/22 18:13:46 Got item 日喀则
+2020/01/22 18:13:46 Got item 日照
+2020/01/22 18:13:46 Got item 荣昌
+2020/01/22 18:13:46 Got item 三门峡
+2020/01/22 18:13:46 Got item 三明
+2020/01/22 18:13:46 Got item 三亚
+2020/01/22 18:13:46 Got item 山东
+2020/01/22 18:13:46 Got item 上海
+2020/01/22 18:13:46 Got item 商洛
+2020/01/22 18:13:46 Got item 商丘
+2020/01/22 18:13:46 Got item 上饶
+2020/01/22 18:13:46 Got item 山南
+2020/01/22 18:13:46 Got item 汕头
+2020/01/22 18:13:46 Got item 汕尾
+2020/01/22 18:13:46 Got item 山西
+2020/01/22 18:13:46 Got item 陕西
+2020/01/22 18:13:46 Got item 韶关
+2020/01/22 18:13:46 Got item 绍兴
+2020/01/22 18:13:46 Got item 邵阳
+2020/01/22 18:13:46 Got item 沙坪坝
+2020/01/22 18:13:46 Got item 沈阳
+2020/01/22 18:13:46 Got item 深圳
+2020/01/22 18:13:46 Got item 石家庄
+2020/01/22 18:13:46 Got item 石景山
+2020/01/22 18:13:46 Got item 十堰
+2020/01/22 18:13:46 Got item 石柱
+2020/01/22 18:13:46 Got item 石嘴山
+2020/01/22 18:13:46 Got item 双鸭山
+2020/01/22 18:13:46 Got item 顺义
+2020/01/22 18:13:46 Got item 朔州
+2020/01/22 18:13:46 Got item 四川
+2020/01/22 18:13:46 Got item 四平
+2020/01/22 18:13:46 Got item 松江
+2020/01/22 18:13:46 Got item 松原
+2020/01/22 18:13:46 Got item 绥化
+2020/01/22 18:13:46 Got item 遂宁
+2020/01/22 18:13:46 Got item 随州
+2020/01/22 18:13:46 Got item 宿迁
+2020/01/22 18:13:46 Got item 苏州
+2020/01/22 18:13:46 Got item 宿州
+2020/01/22 18:13:46 Got item 塔城
+2020/01/22 18:13:46 Got item 泰安
+2020/01/22 18:13:46 Got item 台北
+2020/01/22 18:13:46 Got item 台东
+2020/01/22 18:13:46 Got item 台南
+2020/01/22 18:13:46 Got item 中国台湾
+2020/01/22 18:13:46 Got item 太原
+2020/01/22 18:13:46 Got item 台中
+2020/01/22 18:13:46 Got item 泰州
+2020/01/22 18:13:46 Got item 台州
+2020/01/22 18:13:46 Got item 唐山
+2020/01/22 18:13:46 Got item 桃园
+2020/01/22 18:13:46 Got item 天津
+2020/01/22 18:13:46 Got item 天水
+2020/01/22 18:13:46 Got item 铁岭
+2020/01/22 18:13:46 Got item 铜川
+2020/01/22 18:13:46 Got item 通化
+2020/01/22 18:13:46 Got item 铜梁
+2020/01/22 18:13:46 Got item 通辽
+2020/01/22 18:13:46 Got item 铜陵
+2020/01/22 18:13:46 Got item 潼南
+2020/01/22 18:13:46 Got item 铜仁
+2020/01/22 18:13:46 Got item 通州
+2020/01/22 18:13:46 Got item 吐鲁番
+2020/01/22 18:13:46 Got item 万州
+2020/01/22 18:13:46 Got item 潍坊
+2020/01/22 18:13:46 Got item 威海
+2020/01/22 18:13:46 Got item 渭南
+2020/01/22 18:13:46 Got item 文山
+2020/01/22 18:13:46 Got item 温州
+2020/01/22 18:13:46 Got item 乌海
+2020/01/22 18:13:46 Got item 武汉
+2020/01/22 18:13:46 Got item 芜湖
+2020/01/22 18:13:46 Got item 乌兰察布
+2020/01/22 18:13:46 Got item 武隆
+2020/01/22 18:13:46 Got item 乌鲁木齐
+2020/01/22 18:13:46 Got item 武清
+2020/01/22 18:13:46 Got item 巫山
+2020/01/22 18:13:46 Got item 武威
+2020/01/22 18:13:46 Got item 无锡
+2020/01/22 18:13:46 Got item 巫溪
+2020/01/22 18:13:46 Got item 吴忠
+2020/01/22 18:13:46 Got item 梧州
+2020/01/22 18:13:46 Got item 厦门
+2020/01/22 18:13:46 Got item 西安
+2020/01/22 18:13:46 Got item 中国香港
+2020/01/22 18:13:46 Got item 湘潭
+2020/01/22 18:13:46 Got item 湘西
+2020/01/22 18:13:46 Got item 襄阳
+2020/01/22 18:13:46 Got item 咸宁
+2020/01/22 18:13:46 Got item 咸阳
+2020/01/22 18:13:46 Got item 孝感
+2020/01/22 18:13:46 Got item 西城
+2020/01/22 18:13:46 Got item 锡林郭勒盟
+2020/01/22 18:13:46 Got item 新北
+2020/01/22 18:13:46 Got item 兴安
+2020/01/22 18:13:46 Got item 邢台
+2020/01/22 18:13:46 Got item 西宁
+2020/01/22 18:13:46 Got item 新疆
+2020/01/22 18:13:46 Got item 新界
+2020/01/22 18:13:46 Got item 新乡
+2020/01/22 18:13:46 Got item 信阳
+2020/01/22 18:13:46 Got item 新余
+2020/01/22 18:13:46 Got item 忻州
+2020/01/22 18:13:46 Got item 新竹
+2020/01/22 18:13:46 Got item 西青
+2020/01/22 18:13:46 Got item 西双版纳
+2020/01/22 18:13:46 Got item 秀山
+2020/01/22 18:13:46 Got item 西藏
+2020/01/22 18:13:46 Got item 宣城
+2020/01/22 18:13:46 Got item 许昌
+2020/01/22 18:13:46 Got item 徐汇
+2020/01/22 18:13:46 Got item 徐州
+2020/01/22 18:13:46 Got item 雅安
+2020/01/22 18:13:46 Got item 延安
+2020/01/22 18:13:46 Got item 延边
+2020/01/22 18:13:46 Got item 盐城
+2020/01/22 18:13:46 Got item 阳江
+2020/01/22 18:13:46 Got item 杨浦
+2020/01/22 18:13:46 Got item 阳泉
+2020/01/22 18:13:46 Got item 扬州
+2020/01/22 18:13:46 Got item 延庆
+2020/01/22 18:13:46 Got item 烟台
+2020/01/22 18:13:46 Got item 宜宾
+2020/01/22 18:13:46 Got item 宜昌
+2020/01/22 18:13:46 Got item 宜春
+2020/01/22 18:13:46 Got item 伊春
+2020/01/22 18:13:46 Got item 宜兰
+2020/01/22 18:13:46 Got item 伊犁
+2020/01/22 18:13:46 Got item 银川
+2020/01/22 18:13:46 Got item 营口
+2020/01/22 18:13:46 Got item 鹰潭
+2020/01/22 18:13:46 Got item 益阳
+2020/01/22 18:13:46 Got item 永川
+2020/01/22 18:13:46 Got item 永州
+2020/01/22 18:13:46 Got item 酉阳
+2020/01/22 18:13:46 Got item 渝北
+2020/01/22 18:13:46 Got item 岳阳
+2020/01/22 18:13:46 Got item 榆林
+2020/01/22 18:13:46 Got item 玉林
+2020/01/22 18:13:46 Got item 运城
+2020/01/22 18:13:46 Got item 云浮
+2020/01/22 18:13:46 Got item 云林
+2020/01/22 18:13:46 Got item 云南
+2020/01/22 18:13:46 Got item 云阳
+2020/01/22 18:13:46 Got item 玉树
+2020/01/22 18:13:46 Got item 玉溪
+2020/01/22 18:13:46 Got item 渝中
+2020/01/22 18:13:46 Got item 枣庄
+2020/01/22 18:13:46 Got item 闸北
+2020/01/22 18:13:46 Got item 彰化
+2020/01/22 18:13:46 Got item 张家界
+2020/01/22 18:13:46 Got item 张家口
+2020/01/22 18:13:46 Got item 张掖
+2020/01/22 18:13:46 Got item 漳州
+2020/01/22 18:13:46 Got item 湛江
+2020/01/22 18:13:46 Got item 肇庆
+2020/01/22 18:13:46 Got item 昭通
+2020/01/22 18:13:46 Got item 浙江
+2020/01/22 18:13:46 Got item 郑州
+2020/01/22 18:13:46 Got item 镇江
+2020/01/22 18:13:46 Got item 中山
+2020/01/22 18:13:46 Got item 中卫
+2020/01/22 18:13:46 Got item 忠县
+2020/01/22 18:13:46 Got item 周口
+2020/01/22 18:13:46 Got item 舟山
+2020/01/22 18:13:46 Got item 珠海
+2020/01/22 18:13:46 Got item 驻马店
+2020/01/22 18:13:46 Got item 株洲
+2020/01/22 18:13:46 Got item 淄博
+2020/01/22 18:13:46 Got item 自贡
+2020/01/22 18:13:46 Got item 资阳
+2020/01/22 18:13:46 Got item 遵义
+2020/01/22 18:13:46 Fetching http://www.zhenai.com/zhenghun/aba
+2020/01/22 18:13:56 Fetching http://www.zhenai.com/zhenghun/akesu
+2020/01/22 18:13:58 Fetching http://www.zhenai.com/zhenghun/alashanmeng
+2020/01/22 18:13:58 Fetching http://www.zhenai.com/zhenghun/aletai
+2020/01/22 18:13:59 Fetching http://www.zhenai.com/zhenghun/ali
+2020/01/22 18:14:00 Fetching http://www.zhenai.com/zhenghun/anhui
+2020/01/22 18:14:00 Fetching http://www.zhenai.com/zhenghun/ankang
+2020/01/22 18:14:01 Fetching http://www.zhenai.com/zhenghun/anqing
+2020/01/22 18:14:02 Fetching http://www.zhenai.com/zhenghun/anshan
+2020/01/22 18:14:06 Fetching http://www.zhenai.com/zhenghun/anshun
+2020/01/22 18:14:06 Fetching http://www.zhenai.com/zhenghun/anyang
+2020/01/22 18:14:07 Fetching http://www.zhenai.com/zhenghun/aomen
+2020/01/22 18:14:10 Fetching http://www.zhenai.com/zhenghun/baicheng1
+2020/01/22 18:14:13 Fetching http://www.zhenai.com/zhenghun/baise
+2020/01/22 18:14:16 Fetching http://www.zhenai.com/zhenghun/baishan
+2020/01/22 18:14:30 Fetching http://www.zhenai.com/zhenghun/baiyin
+2020/01/22 18:14:30 Fetching http://www.zhenai.com/zhenghun/banan
+2020/01/22 18:14:30 Fetching http://www.zhenai.com/zhenghun/bangbu
+2020/01/22 18:14:30 Fetching http://www.zhenai.com/zhenghun/baochi
+2020/01/22 18:14:30 Fetching http://www.zhenai.com/zhenghun/baoding
+2020/01/22 18:14:31 Fetching http://www.zhenai.com/zhenghun/baoji
+2020/01/22 18:14:31 Fetching http://www.zhenai.com/zhenghun/baoshan
+2020/01/22 18:14:31 Fetching http://www.zhenai.com/zhenghun/baoshan1
+2020/01/22 18:14:31 Fetching http://www.zhenai.com/zhenghun/baotou
+2020/01/22 18:14:31 Fetching http://www.zhenai.com/zhenghun/bayannaoer
+2020/01/22 18:14:31 Fetching http://www.zhenai.com/zhenghun/bayinguoleng
+2020/01/22 18:14:32 Fetching http://www.zhenai.com/zhenghun/bazhong
+2020/01/22 18:14:33 Fetching http://www.zhenai.com/zhenghun/beibei
+2020/01/22 18:14:37 Fetching http://www.zhenai.com/zhenghun/beichen
+2020/01/22 18:14:39 Fetching http://www.zhenai.com/zhenghun/beihai
+2020/01/22 18:14:39 Fetching http://www.zhenai.com/zhenghun/beijing
+2020/01/22 18:14:40 Fetching http://www.zhenai.com/zhenghun/benxi
+2020/01/22 18:14:41 Fetching http://www.zhenai.com/zhenghun/bijie
+2020/01/22 18:14:44 Fetching http://www.zhenai.com/zhenghun/binhaixin
+2020/01/22 18:14:45 Fetching http://www.zhenai.com/zhenghun/binzhou
+2020/01/22 18:14:46 Fetching http://www.zhenai.com/zhenghun/bishan
+2020/01/22 18:14:46 Fetching http://www.zhenai.com/zhenghun/boertala
+2020/01/22 18:14:47 Fetching http://www.zhenai.com/zhenghun/bozhou
+2020/01/22 18:14:47 Fetching http://www.zhenai.com/zhenghun/cangzhou
+2020/01/22 18:14:49 Fetching http://www.zhenai.com/zhenghun/changchun
+2020/01/22 18:14:49 Fetching http://www.zhenai.com/zhenghun/changde
+2020/01/22 18:14:50 Fetching http://www.zhenai.com/zhenghun/changdu
+2020/01/22 18:14:50 Fetching http://www.zhenai.com/zhenghun/changji
+2020/01/22 18:14:52 Fetching http://www.zhenai.com/zhenghun/changning1
+2020/01/22 18:14:53 Fetching http://www.zhenai.com/zhenghun/changping
+2020/01/22 18:14:53 Fetching http://www.zhenai.com/zhenghun/changsha
+2020/01/22 18:14:54 Fetching http://www.zhenai.com/zhenghun/changshou
+2020/01/22 18:14:55 Fetching http://www.zhenai.com/zhenghun/changzhi
+2020/01/22 18:14:56 Fetching http://www.zhenai.com/zhenghun/changzhou
+2020/01/22 18:14:56 Fetching http://www.zhenai.com/zhenghun/chaoyang1
+2020/01/22 18:14:57 Fetching http://www.zhenai.com/zhenghun/chaozhou
+2020/01/22 18:14:57 Fetching http://www.zhenai.com/zhenghun/chengde
+2020/01/22 18:14:58 Fetching http://www.zhenai.com/zhenghun/chengdu
+2020/01/22 18:14:58 Fetching http://www.zhenai.com/zhenghun/chengkou
+2020/01/22 18:14:59 Fetching http://www.zhenai.com/zhenghun/chenzhou
+2020/01/22 18:14:59 Fetching http://www.zhenai.com/zhenghun/chifeng
+2020/01/22 18:14:59 Fetching http://www.zhenai.com/zhenghun/chizhou
+2020/01/22 18:15:00 Fetching http://www.zhenai.com/zhenghun/chongming
+2020/01/22 18:15:00 Fetching http://www.zhenai.com/zhenghun/chongqing
+2020/01/22 18:15:01 Fetching http://www.zhenai.com/zhenghun/chongzuo
+2020/01/22 18:15:01 Fetching http://www.zhenai.com/zhenghun/chuxiong
+2020/01/22 18:15:02 Fetching http://www.zhenai.com/zhenghun/chuzhou
+2020/01/22 18:15:02 Fetching http://www.zhenai.com/zhenghun/dadukou
+2020/01/22 18:15:04 Fetching http://www.zhenai.com/zhenghun/dali1
+2020/01/22 18:15:04 Fetching http://www.zhenai.com/zhenghun/dalian
+2020/01/22 18:15:04 Fetching http://www.zhenai.com/zhenghun/dandong
+2020/01/22 18:15:04 Fetching http://www.zhenai.com/zhenghun/daqing
+2020/01/22 18:15:05 Fetching http://www.zhenai.com/zhenghun/datong1
+2020/01/22 18:15:06 Fetching http://www.zhenai.com/zhenghun/daxing
+2020/01/22 18:15:06 Fetching http://www.zhenai.com/zhenghun/daxinganling
+2020/01/22 18:15:07 Fetching http://www.zhenai.com/zhenghun/dazhou
+2020/01/22 18:15:07 Fetching http://www.zhenai.com/zhenghun/dazu
+2020/01/22 18:15:08 Fetching http://www.zhenai.com/zhenghun/dehong
+2020/01/22 18:15:08 Fetching http://www.zhenai.com/zhenghun/deyang
+2020/01/22 18:15:09 Fetching http://www.zhenai.com/zhenghun/dezhou
+2020/01/22 18:15:09 Fetching http://www.zhenai.com/zhenghun/dianjiang
+2020/01/22 18:15:09 Fetching http://www.zhenai.com/zhenghun/dingxi
+2020/01/22 18:15:10 Fetching http://www.zhenai.com/zhenghun/diqing
+2020/01/22 18:15:10 Fetching http://www.zhenai.com/zhenghun/dongcheng
+2020/01/22 18:15:11 Fetching http://www.zhenai.com/zhenghun/dongguan
+2020/01/22 18:15:11 Fetching http://www.zhenai.com/zhenghun/dongli
+2020/01/22 18:15:12 Fetching http://www.zhenai.com/zhenghun/dongying
+2020/01/22 18:15:12 Fetching http://www.zhenai.com/zhenghun/eerduosi
+2020/01/22 18:15:12 Fetching http://www.zhenai.com/zhenghun/enshi
+2020/01/22 18:15:13 Fetching http://www.zhenai.com/zhenghun/ezhou
+2020/01/22 18:15:14 Fetching http://www.zhenai.com/zhenghun/fangchenggang
+2020/01/22 18:15:14 Fetching http://www.zhenai.com/zhenghun/fangshan1
+2020/01/22 18:15:14 Fetching http://www.zhenai.com/zhenghun/fengdu
+2020/01/22 18:15:15 Fetching http://www.zhenai.com/zhenghun/fengjie
+2020/01/22 18:15:15 Fetching http://www.zhenai.com/zhenghun/fengtai1
+2020/01/22 18:15:15 Fetching http://www.zhenai.com/zhenghun/fengxian2
+2020/01/22 18:15:16 Fetching http://www.zhenai.com/zhenghun/foshan
+2020/01/22 18:15:16 Fetching http://www.zhenai.com/zhenghun/fujian
+2020/01/22 18:15:17 Fetching http://www.zhenai.com/zhenghun/fuling
+2020/01/22 18:15:17 Fetching http://www.zhenai.com/zhenghun/fushun1
+2020/01/22 18:15:17 Fetching http://www.zhenai.com/zhenghun/fuxin
+2020/01/22 18:15:18 Fetching http://www.zhenai.com/zhenghun/fuyang1
+2020/01/22 18:15:19 Fetching http://www.zhenai.com/zhenghun/fuzhou
+2020/01/22 18:15:19 Fetching http://www.zhenai.com/zhenghun/fuzhou1
+2020/01/22 18:15:19 Fetching http://www.zhenai.com/zhenghun/gannan1
+2020/01/22 18:15:20 Fetching http://www.zhenai.com/zhenghun/gansu
+2020/01/22 18:15:20 Fetching http://www.zhenai.com/zhenghun/ganzhou
+2020/01/22 18:15:20 Fetching http://www.zhenai.com/zhenghun/ganzi
+2020/01/22 18:15:20 Fetching http://www.zhenai.com/zhenghun/gaoxiong
+2020/01/22 18:15:21 Fetching http://www.zhenai.com/zhenghun/guangan
+2020/01/22 18:15:21 Fetching http://www.zhenai.com/zhenghun/guangdong
+2020/01/22 18:15:21 Fetching http://www.zhenai.com/zhenghun/guangxi
+2020/01/22 18:15:22 Fetching http://www.zhenai.com/zhenghun/guangyuan
+2020/01/22 18:15:22 Fetching http://www.zhenai.com/zhenghun/guangzhou
+2020/01/22 18:15:22 Fetching http://www.zhenai.com/zhenghun/guigang
+2020/01/22 18:15:22 Fetching http://www.zhenai.com/zhenghun/guilin
+2020/01/22 18:15:23 Fetching http://www.zhenai.com/zhenghun/guiyang
+2020/01/22 18:15:23 Fetching http://www.zhenai.com/zhenghun/guizhou
+2020/01/22 18:15:23 Fetching http://www.zhenai.com/zhenghun/guoluo
+2020/01/22 18:15:23 Fetching http://www.zhenai.com/zhenghun/guyuan1
+2020/01/22 18:15:23 Fetching http://www.zhenai.com/zhenghun/haerbin
+2020/01/22 18:15:24 Fetching http://www.zhenai.com/zhenghun/haibei
+2020/01/22 18:15:24 Fetching http://www.zhenai.com/zhenghun/haidian
+2020/01/22 18:15:24 Fetching http://www.zhenai.com/zhenghun/haidongdi
+2020/01/22 18:15:24 Fetching http://www.zhenai.com/zhenghun/haikou
+2020/01/22 18:15:25 Fetching http://www.zhenai.com/zhenghun/hainan
+2020/01/22 18:15:25 Fetching http://www.zhenai.com/zhenghun/hainanzangzuzizhizhou
+2020/01/22 18:15:25 Fetching http://www.zhenai.com/zhenghun/haixi
+2020/01/22 18:15:25 Fetching http://www.zhenai.com/zhenghun/hami
+2020/01/22 18:15:25 Fetching http://www.zhenai.com/zhenghun/handan
+2020/01/22 18:15:26 Fetching http://www.zhenai.com/zhenghun/hangzhou
+2020/01/22 18:15:26 Fetching http://www.zhenai.com/zhenghun/hanzhong
+2020/01/22 18:15:26 Fetching http://www.zhenai.com/zhenghun/hebei
+2020/01/22 18:15:26 Fetching http://www.zhenai.com/zhenghun/hebi
+2020/01/22 18:15:26 Fetching http://www.zhenai.com/zhenghun/hechi
+2020/01/22 18:15:27 Fetching http://www.zhenai.com/zhenghun/hechuan
+2020/01/22 18:15:27 Fetching http://www.zhenai.com/zhenghun/hedong
+2020/01/22 18:15:27 Fetching http://www.zhenai.com/zhenghun/hefei
+2020/01/22 18:15:27 Fetching http://www.zhenai.com/zhenghun/hegang
+2020/01/22 18:15:27 Fetching http://www.zhenai.com/zhenghun/heihe
+2020/01/22 18:15:28 Fetching http://www.zhenai.com/zhenghun/heilongjiang
+2020/01/22 18:15:28 Fetching http://www.zhenai.com/zhenghun/henan
+2020/01/22 18:15:28 Fetching http://www.zhenai.com/zhenghun/hengshui
+2020/01/22 18:15:28 Fetching http://www.zhenai.com/zhenghun/hengyang
+2020/01/22 18:15:28 Fetching http://www.zhenai.com/zhenghun/heping2
+2020/01/22 18:15:30 Fetching http://www.zhenai.com/zhenghun/hetian
+2020/01/22 18:15:30 Fetching http://www.zhenai.com/zhenghun/hexi
+2020/01/22 18:15:31 Fetching http://www.zhenai.com/zhenghun/heyuan
+2020/01/22 18:15:31 Fetching http://www.zhenai.com/zhenghun/heze
+2020/01/22 18:15:32 Fetching http://www.zhenai.com/zhenghun/hezhou
+2020/01/22 18:15:32 Fetching http://www.zhenai.com/zhenghun/honghe1
+2020/01/22 18:15:33 Fetching http://www.zhenai.com/zhenghun/hongkou
+2020/01/22 18:15:33 Fetching http://www.zhenai.com/zhenghun/hongqiao
+2020/01/22 18:15:33 Fetching http://www.zhenai.com/zhenghun/huaian
+2020/01/22 18:15:34 Fetching http://www.zhenai.com/zhenghun/huaibei
+2020/01/22 18:15:34 Fetching http://www.zhenai.com/zhenghun/huaihua
+2020/01/22 18:15:35 Fetching http://www.zhenai.com/zhenghun/huainan
+2020/01/22 18:15:35 Fetching http://www.zhenai.com/zhenghun/huairou
+2020/01/22 18:15:35 Fetching http://www.zhenai.com/zhenghun/hualian
+2020/01/22 18:15:36 Fetching http://www.zhenai.com/zhenghun/huanggang
+2020/01/22 18:15:36 Fetching http://www.zhenai.com/zhenghun/huangnan
+2020/01/22 18:15:37 Fetching http://www.zhenai.com/zhenghun/huangpu1
+2020/01/22 18:15:37 Fetching http://www.zhenai.com/zhenghun/huangshan
+2020/01/22 18:15:38 Fetching http://www.zhenai.com/zhenghun/huangshi
+2020/01/22 18:15:38 Fetching http://www.zhenai.com/zhenghun/hubei
+2020/01/22 18:15:39 Fetching http://www.zhenai.com/zhenghun/huhehaote
+2020/01/22 18:15:40 Fetching http://www.zhenai.com/zhenghun/huizhou
+2020/01/22 18:15:40 Fetching http://www.zhenai.com/zhenghun/huludao
+2020/01/22 18:15:40 Fetching http://www.zhenai.com/zhenghun/hulunbeier
+2020/01/22 18:15:40 Fetching http://www.zhenai.com/zhenghun/hunan
+2020/01/22 18:15:41 Fetching http://www.zhenai.com/zhenghun/huzhou
+2020/01/22 18:15:41 Fetching http://www.zhenai.com/zhenghun/jiading
+2020/01/22 18:15:41 Fetching http://www.zhenai.com/zhenghun/jiamusi
+2020/01/22 18:15:42 Fetching http://www.zhenai.com/zhenghun/jian1
+2020/01/22 18:15:42 Fetching http://www.zhenai.com/zhenghun/jiangbei1
+2020/01/22 18:15:42 Fetching http://www.zhenai.com/zhenghun/jiangjin
+2020/01/22 18:15:42 Fetching http://www.zhenai.com/zhenghun/jiangmen
+2020/01/22 18:15:43 Fetching http://www.zhenai.com/zhenghun/jiangsu
+2020/01/22 18:15:43 Fetching http://www.zhenai.com/zhenghun/jiangxi
+2020/01/22 18:15:43 Fetching http://www.zhenai.com/zhenghun/jiaozuo
+2020/01/22 18:15:44 Fetching http://www.zhenai.com/zhenghun/jiaxing
+2020/01/22 18:15:44 Fetching http://www.zhenai.com/zhenghun/jiayi
+2020/01/22 18:15:45 Fetching http://www.zhenai.com/zhenghun/jiayuguan
+2020/01/22 18:15:45 Fetching http://www.zhenai.com/zhenghun/jieyang
+2020/01/22 18:15:46 Fetching http://www.zhenai.com/zhenghun/jilin
+2020/01/22 18:15:46 Fetching http://www.zhenai.com/zhenghun/jilong1
+2020/01/22 18:15:46 Fetching http://www.zhenai.com/zhenghun/jinan
+2020/01/22 18:15:47 Fetching http://www.zhenai.com/zhenghun/jinchang
+2020/01/22 18:15:48 Fetching http://www.zhenai.com/zhenghun/jincheng
+2020/01/22 18:15:48 Fetching http://www.zhenai.com/zhenghun/jingan1
+2020/01/22 18:15:48 Fetching http://www.zhenai.com/zhenghun/jingdezhen
+2020/01/22 18:15:49 Fetching http://www.zhenai.com/zhenghun/jinghai
+2020/01/22 18:15:50 Fetching http://www.zhenai.com/zhenghun/jingmen
+2020/01/22 18:15:51 Fetching http://www.zhenai.com/zhenghun/jingzhou1
+2020/01/22 18:15:51 Fetching http://www.zhenai.com/zhenghun/jinhua
+2020/01/22 18:15:52 Fetching http://www.zhenai.com/zhenghun/jining
+2020/01/22 18:15:53 Fetching http://www.zhenai.com/zhenghun/jinnan
+2020/01/22 18:15:53 Fetching http://www.zhenai.com/zhenghun/jinshan
+2020/01/22 18:15:54 Fetching http://www.zhenai.com/zhenghun/jinzhong
+2020/01/22 18:15:54 Fetching http://www.zhenai.com/zhenghun/jinzhou2
+2020/01/22 18:15:55 Fetching http://www.zhenai.com/zhenghun/jiujiang
+2020/01/22 18:15:55 Fetching http://www.zhenai.com/zhenghun/jiulong1
+2020/01/22 18:15:55 Fetching http://www.zhenai.com/zhenghun/jiulongpo
+2020/01/22 18:15:56 Fetching http://www.zhenai.com/zhenghun/jiuquan
+2020/01/22 18:15:56 Fetching http://www.zhenai.com/zhenghun/jixi1
+2020/01/22 18:15:56 Fetching http://www.zhenai.com/zhenghun/jixian2
+2020/01/22 18:15:57 Fetching http://www.zhenai.com/zhenghun/kaifeng1
+2020/01/22 18:15:57 Fetching http://www.zhenai.com/zhenghun/kaixian
+2020/01/22 18:15:57 Fetching http://www.zhenai.com/zhenghun/kashen
+2020/01/22 18:15:57 Fetching http://www.zhenai.com/zhenghun/kelamayi
+2020/01/22 18:15:57 Fetching http://www.zhenai.com/zhenghun/kezilesukeerkezi
+2020/01/22 18:15:58 Fetching http://www.zhenai.com/zhenghun/kunming
+2020/01/22 18:15:58 Fetching http://www.zhenai.com/zhenghun/laibin
+2020/01/22 18:15:58 Fetching http://www.zhenai.com/zhenghun/laiwu
+2020/01/22 18:15:58 Fetching http://www.zhenai.com/zhenghun/langfang
+2020/01/22 18:15:58 Fetching http://www.zhenai.com/zhenghun/lanzhou
+2020/01/22 18:15:59 Fetching http://www.zhenai.com/zhenghun/lasa
+2020/01/22 18:15:59 Fetching http://www.zhenai.com/zhenghun/leshan
+2020/01/22 18:15:59 Fetching http://www.zhenai.com/zhenghun/liangping
+2020/01/22 18:16:00 Fetching http://www.zhenai.com/zhenghun/liangshan1
+2020/01/22 18:16:00 Fetching http://www.zhenai.com/zhenghun/lianyungang
+2020/01/22 18:16:00 Fetching http://www.zhenai.com/zhenghun/liaocheng
+2020/01/22 18:16:00 Fetching http://www.zhenai.com/zhenghun/liaoning
+2020/01/22 18:16:01 Fetching http://www.zhenai.com/zhenghun/liaoyang
+2020/01/22 18:16:01 Fetching http://www.zhenai.com/zhenghun/liaoyuan
+2020/01/22 18:16:01 Fetching http://www.zhenai.com/zhenghun/lijiang
+2020/01/22 18:16:02 Fetching http://www.zhenai.com/zhenghun/lincang
+2020/01/22 18:16:02 Fetching http://www.zhenai.com/zhenghun/linfen
+2020/01/22 18:16:02 Fetching http://www.zhenai.com/zhenghun/linxia
+2020/01/22 18:16:02 Fetching http://www.zhenai.com/zhenghun/linyi2
+2020/01/22 18:16:02 Fetching http://www.zhenai.com/zhenghun/linzhi
+2020/01/22 18:16:03 Fetching http://www.zhenai.com/zhenghun/lishui1
+2020/01/22 18:16:03 Fetching http://www.zhenai.com/zhenghun/liuan
+2020/01/22 18:16:03 Fetching http://www.zhenai.com/zhenghun/liupanshui
+2020/01/22 18:16:03 Fetching http://www.zhenai.com/zhenghun/liuzhou
+2020/01/22 18:16:03 Fetching http://www.zhenai.com/zhenghun/longnan1
+2020/01/22 18:16:04 Fetching http://www.zhenai.com/zhenghun/longyan
+2020/01/22 18:16:04 Fetching http://www.zhenai.com/zhenghun/loudi
+2020/01/22 18:16:04 Fetching http://www.zhenai.com/zhenghun/luohe
+2020/01/22 18:16:05 Fetching http://www.zhenai.com/zhenghun/luoyang
+2020/01/22 18:16:05 Fetching http://www.zhenai.com/zhenghun/luzhou
+2020/01/22 18:16:05 Fetching http://www.zhenai.com/zhenghun/lvliang
+2020/01/22 18:16:06 Fetching http://www.zhenai.com/zhenghun/maanshan
+2020/01/22 18:16:06 Fetching http://www.zhenai.com/zhenghun/maoming
+2020/01/22 18:16:06 Fetching http://www.zhenai.com/zhenghun/meishan
+2020/01/22 18:16:07 Fetching http://www.zhenai.com/zhenghun/meizhou
+2020/01/22 18:16:07 Fetching http://www.zhenai.com/zhenghun/mentougou
+2020/01/22 18:16:07 Fetching http://www.zhenai.com/zhenghun/mianyang
+2020/01/22 18:16:08 Fetching http://www.zhenai.com/zhenghun/miaoli
+2020/01/22 18:16:08 Fetching http://www.zhenai.com/zhenghun/minxing
+2020/01/22 18:16:09 Fetching http://www.zhenai.com/zhenghun/miyun
+2020/01/22 18:16:09 Fetching http://www.zhenai.com/zhenghun/mudanjiang
+2020/01/22 18:16:09 Fetching http://www.zhenai.com/zhenghun/nanan1
+2020/01/22 18:16:10 Fetching http://www.zhenai.com/zhenghun/nanchang
+2020/01/22 18:16:10 Fetching http://www.zhenai.com/zhenghun/nanchong
+2020/01/22 18:16:10 Fetching http://www.zhenai.com/zhenghun/nanchuan
+2020/01/22 18:16:11 Fetching http://www.zhenai.com/zhenghun/nanjing
+2020/01/22 18:16:11 Fetching http://www.zhenai.com/zhenghun/nankai
+2020/01/22 18:16:12 Fetching http://www.zhenai.com/zhenghun/nanning
+2020/01/22 18:16:14 Fetching http://www.zhenai.com/zhenghun/nanping
+2020/01/22 18:16:15 Fetching http://www.zhenai.com/zhenghun/nantong
+2020/01/22 18:16:15 Fetching http://www.zhenai.com/zhenghun/nantou
+2020/01/22 18:16:16 Fetching http://www.zhenai.com/zhenghun/nanyang
+2020/01/22 18:16:16 Fetching http://www.zhenai.com/zhenghun/naqu
+2020/01/22 18:16:17 Fetching http://www.zhenai.com/zhenghun/neijiang
+2020/01/22 18:16:17 Fetching http://www.zhenai.com/zhenghun/neimenggu
+2020/01/22 18:16:18 Fetching http://www.zhenai.com/zhenghun/ningbo
+2020/01/22 18:16:19 Fetching http://www.zhenai.com/zhenghun/ningde
+2020/01/22 18:16:19 Fetching http://www.zhenai.com/zhenghun/ninghe
+2020/01/22 18:16:19 Fetching http://www.zhenai.com/zhenghun/ningxia
+2020/01/22 18:16:20 Fetching http://www.zhenai.com/zhenghun/nujiang
+2020/01/22 18:16:20 Fetching http://www.zhenai.com/zhenghun/panjin
+2020/01/22 18:16:21 Fetching http://www.zhenai.com/zhenghun/panzhihua
+2020/01/22 18:16:21 Fetching http://www.zhenai.com/zhenghun/penghu
+2020/01/22 18:16:22 Fetching http://www.zhenai.com/zhenghun/pengshui
+2020/01/22 18:16:22 Fetching http://www.zhenai.com/zhenghun/pingdingshan
+2020/01/22 18:16:23 Fetching http://www.zhenai.com/zhenghun/pingdong
+2020/01/22 18:16:23 Fetching http://www.zhenai.com/zhenghun/pinggu
+2020/01/22 18:16:24 Fetching http://www.zhenai.com/zhenghun/pingliang
+2020/01/22 18:16:25 Fetching http://www.zhenai.com/zhenghun/pingxiang2
+2020/01/22 18:16:25 Fetching http://www.zhenai.com/zhenghun/pudongxin
+2020/01/22 18:16:26 Fetching http://www.zhenai.com/zhenghun/puer
+2020/01/22 18:16:27 Fetching http://www.zhenai.com/zhenghun/putian
+2020/01/22 18:16:27 Fetching http://www.zhenai.com/zhenghun/putuo
+2020/01/22 18:16:28 Fetching http://www.zhenai.com/zhenghun/puyang1
+2020/01/22 18:16:28 Fetching http://www.zhenai.com/zhenghun/qiandong
+2020/01/22 18:16:28 Fetching http://www.zhenai.com/zhenghun/qianjiang1
+2020/01/22 18:16:29 Fetching http://www.zhenai.com/zhenghun/qiannan
+2020/01/22 18:16:29 Fetching http://www.zhenai.com/zhenghun/qianxi2
+2020/01/22 18:16:30 Fetching http://www.zhenai.com/zhenghun/qijiang
+2020/01/22 18:16:30 Fetching http://www.zhenai.com/zhenghun/qingdao
+2020/01/22 18:16:30 Fetching http://www.zhenai.com/zhenghun/qinghai
+2020/01/22 18:16:31 Fetching http://www.zhenai.com/zhenghun/qingpu
+2020/01/22 18:16:31 Fetching http://www.zhenai.com/zhenghun/qingyang2
+2020/01/22 18:16:32 Fetching http://www.zhenai.com/zhenghun/qingyuan3
+2020/01/22 18:16:32 Fetching http://www.zhenai.com/zhenghun/qinhuangdao
+2020/01/22 18:16:32 Fetching http://www.zhenai.com/zhenghun/qinzhou
+2020/01/22 18:16:33 Fetching http://www.zhenai.com/zhenghun/qiqihaer
+2020/01/22 18:16:33 Fetching http://www.zhenai.com/zhenghun/qitaihe
+2020/01/22 18:16:34 Fetching http://www.zhenai.com/zhenghun/quanzhou1
+2020/01/22 18:16:34 Fetching http://www.zhenai.com/zhenghun/qujing
+2020/01/22 18:16:34 Fetching http://www.zhenai.com/zhenghun/quzhou1
+2020/01/22 18:16:34 Fetching http://www.zhenai.com/zhenghun/rikaze
+2020/01/22 18:16:35 Fetching http://www.zhenai.com/zhenghun/rizhao
+2020/01/22 18:16:35 Fetching http://www.zhenai.com/zhenghun/rongchang
+2020/01/22 18:16:35 Fetching http://www.zhenai.com/zhenghun/sanmenxia
+2020/01/22 18:16:36 Fetching http://www.zhenai.com/zhenghun/sanming
+2020/01/22 18:16:36 Fetching http://www.zhenai.com/zhenghun/sanya
+2020/01/22 18:16:37 Fetching http://www.zhenai.com/zhenghun/shandong
+2020/01/22 18:16:38 Fetching http://www.zhenai.com/zhenghun/shanghai
+2020/01/22 18:16:38 Fetching http://www.zhenai.com/zhenghun/shangluo
+2020/01/22 18:16:39 Fetching http://www.zhenai.com/zhenghun/shangqiu
+2020/01/22 18:16:39 Fetching http://www.zhenai.com/zhenghun/shangrao
+2020/01/22 18:16:40 Fetching http://www.zhenai.com/zhenghun/shannan
+2020/01/22 18:16:40 Fetching http://www.zhenai.com/zhenghun/shantou
+2020/01/22 18:16:41 Fetching http://www.zhenai.com/zhenghun/shanwei
+2020/01/22 18:16:41 Fetching http://www.zhenai.com/zhenghun/shanxi
+2020/01/22 18:16:42 Fetching http://www.zhenai.com/zhenghun/shanxi1
+2020/01/22 18:16:42 Fetching http://www.zhenai.com/zhenghun/shaoguan
+2020/01/22 18:16:42 Fetching http://www.zhenai.com/zhenghun/shaoxing
+2020/01/22 18:16:43 Fetching http://www.zhenai.com/zhenghun/shaoyang
+2020/01/22 18:16:43 Fetching http://www.zhenai.com/zhenghun/shapingba
+2020/01/22 18:16:43 Fetching http://www.zhenai.com/zhenghun/shenyang
+2020/01/22 18:16:43 Fetching http://www.zhenai.com/zhenghun/shenzhen
+2020/01/22 18:16:44 Fetching http://www.zhenai.com/zhenghun/shijiazhuang
+2020/01/22 18:16:44 Fetching http://www.zhenai.com/zhenghun/shijingshan
+2020/01/22 18:16:44 Fetching http://www.zhenai.com/zhenghun/shiyan
+2020/01/22 18:16:44 Fetching http://www.zhenai.com/zhenghun/shizhu
+2020/01/22 18:16:45 Fetching http://www.zhenai.com/zhenghun/shizuishan
+2020/01/22 18:16:45 Fetching http://www.zhenai.com/zhenghun/shuangyashan
+2020/01/22 18:16:45 Fetching http://www.zhenai.com/zhenghun/shunyi
+2020/01/22 18:16:45 Fetching http://www.zhenai.com/zhenghun/shuozhou
+2020/01/22 18:16:46 Fetching http://www.zhenai.com/zhenghun/sichuan
+2020/01/22 18:16:46 Fetching http://www.zhenai.com/zhenghun/siping
+2020/01/22 18:16:46 Fetching http://www.zhenai.com/zhenghun/songjiang
+2020/01/22 18:16:47 Fetching http://www.zhenai.com/zhenghun/songyuan
+2020/01/22 18:16:47 Fetching http://www.zhenai.com/zhenghun/suihua
+2020/01/22 18:16:48 Fetching http://www.zhenai.com/zhenghun/suining2
+2020/01/22 18:16:48 Fetching http://www.zhenai.com/zhenghun/suizhou
+2020/01/22 18:16:48 Fetching http://www.zhenai.com/zhenghun/suqian
+2020/01/22 18:16:49 Fetching http://www.zhenai.com/zhenghun/suzhou
+2020/01/22 18:16:49 Fetching http://www.zhenai.com/zhenghun/suzhou1
+2020/01/22 18:16:49 Fetching http://www.zhenai.com/zhenghun/tacheng
+2020/01/22 18:16:49 Fetching http://www.zhenai.com/zhenghun/taian1
+2020/01/22 18:16:50 Fetching http://www.zhenai.com/zhenghun/taibei
+2020/01/22 18:16:50 Fetching http://www.zhenai.com/zhenghun/taidong
+2020/01/22 18:16:51 Fetching http://www.zhenai.com/zhenghun/tainan
+2020/01/22 18:16:51 Fetching http://www.zhenai.com/zhenghun/taiwan
+2020/01/22 18:16:51 Fetching http://www.zhenai.com/zhenghun/taiyuan
+2020/01/22 18:16:52 Fetching http://www.zhenai.com/zhenghun/taizhong
+2020/01/22 18:16:53 Fetching http://www.zhenai.com/zhenghun/taizhou
+2020/01/22 18:16:54 Fetching http://www.zhenai.com/zhenghun/taizhou1
+2020/01/22 18:16:54 Fetching http://www.zhenai.com/zhenghun/tangshan
+2020/01/22 18:16:55 Fetching http://www.zhenai.com/zhenghun/taoyuan1
+2020/01/22 18:16:56 Fetching http://www.zhenai.com/zhenghun/tianjin
+2020/01/22 18:16:56 Fetching http://www.zhenai.com/zhenghun/tianshui
+2020/01/22 18:16:57 Fetching http://www.zhenai.com/zhenghun/tieling
+2020/01/22 18:16:57 Fetching http://www.zhenai.com/zhenghun/tongchuan
+2020/01/22 18:16:57 Fetching http://www.zhenai.com/zhenghun/tonghua
+2020/01/22 18:16:58 Fetching http://www.zhenai.com/zhenghun/tongliang
+2020/01/22 18:16:58 Fetching http://www.zhenai.com/zhenghun/tongliao
+2020/01/22 18:16:58 Fetching http://www.zhenai.com/zhenghun/tongling
+2020/01/22 18:16:59 Fetching http://www.zhenai.com/zhenghun/tongnan
+2020/01/22 18:16:59 Fetching http://www.zhenai.com/zhenghun/tongren1
+2020/01/22 18:16:59 Fetching http://www.zhenai.com/zhenghun/tongzhou
+2020/01/22 18:16:59 Fetching http://www.zhenai.com/zhenghun/tulufan
+2020/01/22 18:17:00 Fetching http://www.zhenai.com/zhenghun/wanzhou
+2020/01/22 18:17:00 Fetching http://www.zhenai.com/zhenghun/weifang
+2020/01/22 18:17:01 Fetching http://www.zhenai.com/zhenghun/weihai
+2020/01/22 18:17:01 Fetching http://www.zhenai.com/zhenghun/weinan
+2020/01/22 18:17:02 Fetching http://www.zhenai.com/zhenghun/wenshan
+2020/01/22 18:17:03 Fetching http://www.zhenai.com/zhenghun/wenzhou
+2020/01/22 18:17:03 Fetching http://www.zhenai.com/zhenghun/wuhai
+2020/01/22 18:17:03 Fetching http://www.zhenai.com/zhenghun/wuhan
+2020/01/22 18:17:04 Fetching http://www.zhenai.com/zhenghun/wuhu
+2020/01/22 18:17:04 Fetching http://www.zhenai.com/zhenghun/wulanchabu
+2020/01/22 18:17:04 Fetching http://www.zhenai.com/zhenghun/wulong
+2020/01/22 18:17:05 Fetching http://www.zhenai.com/zhenghun/wulumuqi
+2020/01/22 18:17:05 Fetching http://www.zhenai.com/zhenghun/wuqing
+2020/01/22 18:17:06 Fetching http://www.zhenai.com/zhenghun/wushan1
+2020/01/22 18:17:06 Fetching http://www.zhenai.com/zhenghun/wuwei1
+2020/01/22 18:17:07 Fetching http://www.zhenai.com/zhenghun/wuxi
+2020/01/22 18:17:07 Fetching http://www.zhenai.com/zhenghun/wuxi1
+2020/01/22 18:17:08 Fetching http://www.zhenai.com/zhenghun/wuzhong
+2020/01/22 18:17:08 Fetching http://www.zhenai.com/zhenghun/wuzhou
+2020/01/22 18:17:09 Fetching http://www.zhenai.com/zhenghun/xiamen
+2020/01/22 18:17:09 Fetching http://www.zhenai.com/zhenghun/xian
+2020/01/22 18:17:09 Fetching http://www.zhenai.com/zhenghun/xianggang
+2020/01/22 18:17:10 Fetching http://www.zhenai.com/zhenghun/xiangtan
+2020/01/22 18:17:10 Fetching http://www.zhenai.com/zhenghun/xiangxi
+2020/01/22 18:17:10 Fetching http://www.zhenai.com/zhenghun/xiangyang
+2020/01/22 18:17:11 Fetching http://www.zhenai.com/zhenghun/xianning
+2020/01/22 18:17:11 Fetching http://www.zhenai.com/zhenghun/xianyang
+2020/01/22 18:17:11 Fetching http://www.zhenai.com/zhenghun/xiaogan
+2020/01/22 18:17:11 Fetching http://www.zhenai.com/zhenghun/xicheng
+2020/01/22 18:17:13 Fetching http://www.zhenai.com/zhenghun/xilinguolemeng
+2020/01/22 18:17:13 Fetching http://www.zhenai.com/zhenghun/xinbei
+2020/01/22 18:17:13 Fetching http://www.zhenai.com/zhenghun/xingan2
+2020/01/22 18:17:14 Fetching http://www.zhenai.com/zhenghun/xingtai
+2020/01/22 18:17:15 Fetching http://www.zhenai.com/zhenghun/xining
+2020/01/22 18:17:15 Fetching http://www.zhenai.com/zhenghun/xinjiang
+2020/01/22 18:17:15 Fetching http://www.zhenai.com/zhenghun/xinjie
+2020/01/22 18:17:16 Fetching http://www.zhenai.com/zhenghun/xinxiang
+2020/01/22 18:17:16 Fetching http://www.zhenai.com/zhenghun/xinyang
+2020/01/22 18:17:17 Fetching http://www.zhenai.com/zhenghun/xinyu
+2020/01/22 18:17:18 Fetching http://www.zhenai.com/zhenghun/xinzhou1
+2020/01/22 18:17:18 Fetching http://www.zhenai.com/zhenghun/xinzhu
+2020/01/22 18:17:19 Fetching http://www.zhenai.com/zhenghun/xiqing
+2020/01/22 18:17:19 Fetching http://www.zhenai.com/zhenghun/xishuangbanna
+2020/01/22 18:17:19 Fetching http://www.zhenai.com/zhenghun/xiushan
+2020/01/22 18:17:20 Fetching http://www.zhenai.com/zhenghun/xizang
+2020/01/22 18:17:20 Fetching http://www.zhenai.com/zhenghun/xuancheng
+2020/01/22 18:17:20 Fetching http://www.zhenai.com/zhenghun/xuchang
+2020/01/22 18:17:20 Fetching http://www.zhenai.com/zhenghun/xuhui
+2020/01/22 18:17:20 Fetching http://www.zhenai.com/zhenghun/xuzhou
+2020/01/22 18:17:21 Fetching http://www.zhenai.com/zhenghun/yaan
+2020/01/22 18:17:21 Fetching http://www.zhenai.com/zhenghun/yanan
+2020/01/22 18:17:22 Fetching http://www.zhenai.com/zhenghun/yanbian1
+2020/01/22 18:17:24 Fetching http://www.zhenai.com/zhenghun/yancheng
+2020/01/22 18:17:25 Fetching http://www.zhenai.com/zhenghun/yangjiang
+2020/01/22 18:17:26 Fetching http://www.zhenai.com/zhenghun/yangpu
+2020/01/22 18:17:27 Fetching http://www.zhenai.com/zhenghun/yangquan
+2020/01/22 18:17:27 Fetching http://www.zhenai.com/zhenghun/yangzhou
+2020/01/22 18:17:28 Fetching http://www.zhenai.com/zhenghun/yanqing
+2020/01/22 18:17:28 Fetching http://www.zhenai.com/zhenghun/yantai
+2020/01/22 18:17:28 Fetching http://www.zhenai.com/zhenghun/yibin
+2020/01/22 18:17:29 Fetching http://www.zhenai.com/zhenghun/yichang
+2020/01/22 18:17:29 Fetching http://www.zhenai.com/zhenghun/yichun
+2020/01/22 18:17:29 Fetching http://www.zhenai.com/zhenghun/yichun1
+2020/01/22 18:17:30 Fetching http://www.zhenai.com/zhenghun/yilan1
+2020/01/22 18:17:30 Fetching http://www.zhenai.com/zhenghun/yili
+2020/01/22 18:17:30 Fetching http://www.zhenai.com/zhenghun/yinchuan
+2020/01/22 18:17:31 Fetching http://www.zhenai.com/zhenghun/yingkou
+2020/01/22 18:17:31 Fetching http://www.zhenai.com/zhenghun/yingtan
+2020/01/22 18:17:32 Fetching http://www.zhenai.com/zhenghun/yiyang2
+2020/01/22 18:17:32 Fetching http://www.zhenai.com/zhenghun/yongchuan
+2020/01/22 18:17:32 Fetching http://www.zhenai.com/zhenghun/yongzhou
+2020/01/22 18:17:33 Fetching http://www.zhenai.com/zhenghun/youyang
+2020/01/22 18:17:33 Fetching http://www.zhenai.com/zhenghun/yubei
+2020/01/22 18:17:33 Fetching http://www.zhenai.com/zhenghun/yueyang
+2020/01/22 18:17:34 Fetching http://www.zhenai.com/zhenghun/yulin
+2020/01/22 18:17:34 Fetching http://www.zhenai.com/zhenghun/yulin1
+2020/01/22 18:17:34 Fetching http://www.zhenai.com/zhenghun/yuncheng1
+2020/01/22 18:17:34 Fetching http://www.zhenai.com/zhenghun/yunfu
+2020/01/22 18:17:35 Fetching http://www.zhenai.com/zhenghun/yunlin
+2020/01/22 18:17:35 Fetching http://www.zhenai.com/zhenghun/yunnan
+2020/01/22 18:17:35 Fetching http://www.zhenai.com/zhenghun/yunyang
+2020/01/22 18:17:36 Fetching http://www.zhenai.com/zhenghun/yushu1
+2020/01/22 18:17:36 Fetching http://www.zhenai.com/zhenghun/yuxi
+2020/01/22 18:17:36 Fetching http://www.zhenai.com/zhenghun/yuzhong1
+2020/01/22 18:17:36 Fetching http://www.zhenai.com/zhenghun/zaozhuang
+2020/01/22 18:17:37 Fetching http://www.zhenai.com/zhenghun/zhabei
+2020/01/22 18:17:37 Fetching http://www.zhenai.com/zhenghun/zhanghua
+2020/01/22 18:17:37 Fetching http://www.zhenai.com/zhenghun/zhangjiajie
+2020/01/22 18:17:37 Fetching http://www.zhenai.com/zhenghun/zhangjiakou
+2020/01/22 18:17:39 Fetching http://www.zhenai.com/zhenghun/zhangye
+2020/01/22 18:17:39 Fetching http://www.zhenai.com/zhenghun/zhangzhou
+2020/01/22 18:17:39 Fetching http://www.zhenai.com/zhenghun/zhanjiang
+2020/01/22 18:17:40 Fetching http://www.zhenai.com/zhenghun/zhaoqing
+2020/01/22 18:17:40 Fetching http://www.zhenai.com/zhenghun/zhaotong
+2020/01/22 18:17:40 Fetching http://www.zhenai.com/zhenghun/zhejiang
+2020/01/22 18:17:40 Fetching http://www.zhenai.com/zhenghun/zhengzhou
+2020/01/22 18:17:41 Fetching http://www.zhenai.com/zhenghun/zhenjiang
+2020/01/22 18:17:41 Fetching http://www.zhenai.com/zhenghun/zhongshan3
+2020/01/22 18:17:41 Fetching http://www.zhenai.com/zhenghun/zhongwei
+2020/01/22 18:17:41 Fetching http://www.zhenai.com/zhenghun/zhongxian
+2020/01/22 18:17:41 Fetching http://www.zhenai.com/zhenghun/zhoukou
+2020/01/22 18:17:42 Fetching http://www.zhenai.com/zhenghun/zhoushan
+2020/01/22 18:17:42 Fetching http://www.zhenai.com/zhenghun/zhuhai
+2020/01/22 18:17:42 Fetching http://www.zhenai.com/zhenghun/zhumadian
+2020/01/22 18:17:43 Fetching http://www.zhenai.com/zhenghun/zhuzhou
+2020/01/22 18:17:43 Fetching http://www.zhenai.com/zhenghun/zibo
+2020/01/22 18:17:43 Fetching http://www.zhenai.com/zhenghun/zigong
+2020/01/22 18:17:44 Fetching http://www.zhenai.com/zhenghun/ziyang1
+2020/01/22 18:17:44 Fetching http://www.zhenai.com/zhenghun/zunyi

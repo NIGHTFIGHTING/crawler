@@ -4,7 +4,6 @@ import (
     "net/http"
     "io/ioutil"
     "fmt"
-    "regexp"
     //"golang.org./x/net/html/chatset"
     //"bufio"
     //"log"
@@ -19,7 +18,7 @@ func Fetcher(url string)([]byte, error) {
     if resp.StatusCode != http.StatusOK {
         fmt.Println("Error: status code", resp.StatusCode)
         //return nil, erros.New()
-        return nil, fmt.Errorof ("Wrong status code: %d",
+        return nil, fmt.Errorf ("Wrong status code: %d",
             resp.StatusCode)
     }
     // 自动确认编码
