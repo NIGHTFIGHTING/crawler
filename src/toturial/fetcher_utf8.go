@@ -1,4 +1,4 @@
-package fetcher
+package fetcher_utf8
 
 import (
     "net/http"
