@@ -4,11 +4,13 @@ import (
     "net/http"
     "io/ioutil"
     "fmt"
+    "time"
     //"golang.org./x/net/html/chatset"
     //"bufio"
     //"log"
 )
 
+var rateLimiter = time.Tick(100 * time.Millisecond)
 func Fetcher(url string)([]byte, error) {
 //    resp, err := http.Get(url)
 //    if err != nil {
@@ -17,6 +19,7 @@ func Fetcher(url string)([]byte, error) {
     // 爬取网页数据时403
     // https://blog.csdn.net/qq_15977699/article/details/87932203
     // https://blog.csdn.net/qq_36183935/article/details/80499183
+    <-rateLimiter
     client := http.Client{}
     request, err := http.NewRequest("GET", url, nil)
     if err!=nil {

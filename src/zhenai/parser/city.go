@@ -7,8 +7,11 @@ import (
 
 // view-source:http://www.zhenai.com/zhenghun/aba
 // <a href="http://album.zhenai.com/u/1419353990" target="_blank">任我潇洒</a>
-const cityRe = `<a href="(http://album.zhenai.com/u/[0-9]+)" target="_blank">([^<]+)</a>`
+const cityRe = `<a href="(http://album.zhenai.com/u/[0-9]+)"[^>]*>([^<]+)</a>`
 
+/**
+* brief:在当前城市html找到所有用户的链接
+**/
 func ParseCity(
     contents []byte) engine.ParseResult {
     re := regexp.MustCompile(cityRe)
