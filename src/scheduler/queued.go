@@ -1,5 +1,3 @@
-// 15-3 并发调度器
-// 并发分发request，多个go routine的worker争抢一个in chan的数据
 package scheduler
 
 import (
